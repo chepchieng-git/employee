@@ -1,0 +1,10 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode",
+      "phone": "98765456789"
+    }
+  ]
+}
